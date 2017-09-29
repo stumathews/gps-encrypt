@@ -1,0 +1,710 @@
+// !$*UTF8*$!
+{
+	170E3A4B11CC0A8D00995620 /* IdeaExplorerViewController.m:222 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 28D7ACF70DDB3853001CB0EB /* IdeaExplorerViewController.m */;
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 222;
+		location = IdeaExplorer;
+		modificationTime = 299807102.734724;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	170E3AE311CCFE6600995620 /* IdeaExplorerViewController.m:95 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 28D7ACF70DDB3853001CB0EB /* IdeaExplorerViewController.m */;
+		functionName = "-imagePickerController:didFinishPickingImage:editingInfo:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 95;
+		location = IdeaExplorer;
+		modificationTime = 299807102.734824;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	1762524E11C4411400D47BB7 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* IdeaExplorerAppDelegate.h */;
+		name = "IdeaExplorerAppDelegate.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 516;
+		vrLoc = 0;
+	};
+	176252B311C4478800D47BB7 /* IdeaExplorerViewController.m:161 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 28D7ACF70DDB3853001CB0EB /* IdeaExplorerViewController.m */;
+		functionName = "-performCryptFunction:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 161;
+		location = IdeaExplorer;
+		modificationTime = 299807102.7331451;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	176252C411C4483D00D47BB7 /* IdeaExplorerViewController.m:224 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 28D7ACF70DDB3853001CB0EB /* IdeaExplorerViewController.m */;
+		functionName = "-textFieldShouldReturn:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 224;
+		location = IdeaExplorer;
+		modificationTime = 299807102.733446;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	176252CB11C4483F00D47BB7 /* IdeaExplorerViewController.m:226 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 28D7ACF70DDB3853001CB0EB /* IdeaExplorerViewController.m */;
+		functionName = "-textFieldShouldReturn:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 226;
+		location = IdeaExplorer;
+		modificationTime = 299807102.733559;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	176252FC11C44D8100D47BB7 /* IdeaExplorerViewController.m:185 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 28D7ACF70DDB3853001CB0EB /* IdeaExplorerViewController.m */;
+		functionName = "-performCryptFunction:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 185;
+		location = IdeaExplorer;
+		modificationTime = 299807102.733662;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	1762530911C44DD200D47BB7 /* IdeaExplorerViewController.m:113 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 28D7ACF70DDB3853001CB0EB /* IdeaExplorerViewController.m */;
+		functionName = "-editingChanged:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 113;
+		location = IdeaExplorer;
+		modificationTime = 299807102.733758;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	1762533311C44FB300D47BB7 /* IdeaExplorerViewController.m:112 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 28D7ACF70DDB3853001CB0EB /* IdeaExplorerViewController.m */;
+		functionName = "-editingChanged:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 112;
+		location = IdeaExplorer;
+		modificationTime = 299807102.733876;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	1762536E11C4539100D47BB7 /* IdeaExplorerViewController.m:120 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 28D7ACF70DDB3853001CB0EB /* IdeaExplorerViewController.m */;
+		functionName = "-encryptMessage:coordinates:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 120;
+		location = IdeaExplorer;
+		modificationTime = 299807102.733977;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	1762537011C4539200D47BB7 /* IdeaExplorerViewController.m:135 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 28D7ACF70DDB3853001CB0EB /* IdeaExplorerViewController.m */;
+		functionName = "-decryptMessage:coordinates:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 135;
+		location = IdeaExplorer;
+		modificationTime = 299807102.73409;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	1762544011C4D9EF00D47BB7 /* IdeaExplorerViewController.m:138 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 28D7ACF70DDB3853001CB0EB /* IdeaExplorerViewController.m */;
+		functionName = "-decryptMessage:coordinates:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 138;
+		location = IdeaExplorer;
+		modificationTime = 299807102.734181;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	1762547711C4DDEC00D47BB7 /* IdeaExplorerViewController.m:137 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 28D7ACF70DDB3853001CB0EB /* IdeaExplorerViewController.m */;
+		functionName = "-decryptMessage:coordinates:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 137;
+		location = IdeaExplorer;
+		modificationTime = 299807102.734291;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	1768F21911C6B13A00990224 /* NSData-AES.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {930, 503}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 445}";
+		};
+	};
+	1768F21A11C6B13A00990224 /* NSData-AES.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {941, 1079}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 735}";
+		};
+	};
+	1768F23D11C6B20200990224 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1768F21A11C6B13A00990224 /* NSData-AES.m */;
+		name = "NSData-AES.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 735;
+		vrLoc = 0;
+	};
+	1768F27A11C6BE2300990224 /* IdeaExplorerViewController.m:212 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 28D7ACF70DDB3853001CB0EB /* IdeaExplorerViewController.m */;
+		functionName = "-performCryptFunction:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 212;
+		location = IdeaExplorer;
+		modificationTime = 299807102.734383;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	1768F29811C6C03C00990224 /* IdeaExplorerViewController.m:208 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 28D7ACF70DDB3853001CB0EB /* IdeaExplorerViewController.m */;
+		functionName = "-performCryptFunction:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 208;
+		location = IdeaExplorer;
+		modificationTime = 299807102.734472;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	1768F2D111C6D27300990224 /* IdeaExplorerViewController.m:166 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 28D7ACF70DDB3853001CB0EB /* IdeaExplorerViewController.m */;
+		functionName = "-performCryptFunction:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 166;
+		location = IdeaExplorer;
+		modificationTime = 299807102.73461;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	177D872411C2B61100822A80 /* IdeaExplorer */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 1;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = IdeaExplorer;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+			$cs = 1;
+			$ds = 1;
+			$eax = 1;
+			$ebp = 1;
+			$ebx = 1;
+			$ecx = 1;
+			$edi = 1;
+			$edx = 1;
+			$eflags = 1;
+			$eip = 1;
+			$es = 1;
+			$esi = 1;
+			$esp = 1;
+			$fs = 1;
+			$gs = 1;
+			$ss = 1;
+		};
+	};
+	177D873A11C2B61E00822A80 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = GPSEncrypt;
+			};
+		};
+	};
+	177D873B11C2B61E00822A80 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	177D878F11C3B4FC00822A80 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* IdeaExplorer-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			CFBundleIdentifier,
+		);
+		name = "/Users/stuart/Documents/IdeaExplorer/IdeaExplorer-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	178A238211DE740A00900C69 /* IdeaExplorerViewController.m:72 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 28D7ACF70DDB3853001CB0EB /* IdeaExplorerViewController.m */;
+		functionName = "-hideInbox:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 72;
+		location = IdeaExplorer;
+		modificationTime = 299807102.734925;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	178A23BF11DE9D6300900C69 /* Message.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {930, 505}}";
+			sepNavSelRange = "{404, 0}";
+			sepNavVisRange = "{0, 485}";
+			sepNavWindowFrame = "{{15, 232}, {1078, 541}}";
+		};
+	};
+	178A23C011DE9D6300900C69 /* Message.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1114, 325}}";
+			sepNavSelRange = "{327, 0}";
+			sepNavVisRange = "{34, 345}";
+			sepNavWindowFrame = "{{38, 211}, {1078, 541}}";
+		};
+	};
+	178A23F311DEA4BB00900C69 /* IdeaExplorerViewController.m:35 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 28D7ACF70DDB3853001CB0EB /* IdeaExplorerViewController.m */;
+		functionName = "-tableView:cellForRowAtIndexPath:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 35;
+		location = IdeaExplorer;
+		modificationTime = 299807102.735031;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	178A23FB11DEA4EE00900C69 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 178A23BF11DE9D6300900C69 /* Message.h */;
+		name = "Message.h: 22";
+		rLen = 0;
+		rLoc = 404;
+		rType = 0;
+		vrLen = 485;
+		vrLoc = 0;
+	};
+	178A23FC11DEA4EE00900C69 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 178A23C011DE9D6300900C69 /* Message.m */;
+		name = "Message.m: 12";
+		rLen = 0;
+		rLoc = 186;
+		rType = 0;
+		vrLen = 385;
+		vrLoc = 0;
+	};
+	178A23FD11DEA4EE00900C69 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* IdeaExplorerAppDelegate.m */;
+		name = "IdeaExplorerAppDelegate.m: 16";
+		rLen = 0;
+		rLoc = 328;
+		rType = 0;
+		vrLen = 707;
+		vrLoc = 0;
+	};
+	178A241411DEA6EC00900C69 /* IdeaExplorerViewController.m:37 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 28D7ACF70DDB3853001CB0EB /* IdeaExplorerViewController.m */;
+		functionName = "-tableView:cellForRowAtIndexPath:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 37;
+		location = IdeaExplorer;
+		modificationTime = 299807102.735142;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	178A244B11DEB17A00900C69 /* IdeaExplorerViewController.m:297 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 28D7ACF70DDB3853001CB0EB /* IdeaExplorerViewController.m */;
+		functionName = "-viewDidLoad";
+		hitCount = 1;
+		ignoreCount = 0;
+		lineNumber = 297;
+		location = IdeaExplorer;
+		modificationTime = 299807104.884716;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	178A244F11DEB17D00900C69 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 177D873E11C2B70200822A80 /* greymeagain.png */;
+	};
+	178A245011DEB17D00900C69 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 1768F2F311C6D9B900990224 /* Default.png */;
+	};
+	178A245111DEB17D00900C69 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* IdeaExplorerViewController.h */;
+		name = "IdeaExplorerViewController.h: 14";
+		rLen = 0;
+		rLoc = 323;
+		rType = 0;
+		vrLen = 1878;
+		vrLoc = 1085;
+	};
+	178A245211DEB17D00900C69 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* IdeaExplorerViewController.m */;
+		name = "IdeaExplorerViewController.m: 34";
+		rLen = 0;
+		rLoc = 818;
+		rType = 0;
+		vrLen = 1110;
+		vrLoc = 8317;
+	};
+	178A245511DFA0FA00900C69 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* IdeaExplorerViewController.m */;
+		name = "IdeaExplorerViewController.m: 293";
+		rLen = 0;
+		rLoc = 8831;
+		rType = 0;
+		vrLen = 913;
+		vrLoc = 570;
+	};
+	178D83351205CFF500DE1A93 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* IdeaExplorerViewController.m */;
+		name = "IdeaExplorerViewController.m: 293";
+		rLen = 0;
+		rLoc = 8831;
+		rType = 0;
+		vrLen = 912;
+		vrLoc = 570;
+	};
+	178D83361205CFF500DE1A93 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1768F21911C6B13A00990224 /* NSData-AES.h */;
+		name = "NSData-AES.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 445;
+		vrLoc = 0;
+	};
+	178D83371205CFF500DE1A93 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1768F21911C6B13A00990224 /* NSData-AES.h */;
+		name = "NSData-AES.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 445;
+		vrLoc = 0;
+	};
+	1D3623240D0F684500981E51 /* IdeaExplorerAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {941, 364}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 516}";
+		};
+	};
+	1D3623250D0F684500981E51 /* IdeaExplorerAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {930, 505}}";
+			sepNavSelRange = "{328, 0}";
+			sepNavVisRange = "{0, 707}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* IdeaExplorer */ = {
+		activeExec = 0;
+		executables = (
+			177D872411C2B61100822A80 /* IdeaExplorer */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* IdeaExplorerViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {930, 1027}}";
+			sepNavSelRange = "{323, 0}";
+			sepNavVisRange = "{1085, 1878}";
+			sepNavWindowFrame = "{{61, 190}, {1078, 541}}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* IdeaExplorerViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {930, 5733}}";
+			sepNavSelRange = "{8831, 0}";
+			sepNavVisRange = "{570, 912}";
+			sepNavWindowFrame = "{{61, 190}, {1078, 541}}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 177D872411C2B61100822A80 /* IdeaExplorer */;
+		activeSDKPreference = iphonesimulator4.0;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* IdeaExplorer */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* IdeaExplorer */,
+		);
+		breakpoints = (
+			176252B311C4478800D47BB7 /* IdeaExplorerViewController.m:161 */,
+			176252C411C4483D00D47BB7 /* IdeaExplorerViewController.m:224 */,
+			176252CB11C4483F00D47BB7 /* IdeaExplorerViewController.m:226 */,
+			176252FC11C44D8100D47BB7 /* IdeaExplorerViewController.m:185 */,
+			1762530911C44DD200D47BB7 /* IdeaExplorerViewController.m:113 */,
+			1762533311C44FB300D47BB7 /* IdeaExplorerViewController.m:112 */,
+			1762536E11C4539100D47BB7 /* IdeaExplorerViewController.m:120 */,
+			1762537011C4539200D47BB7 /* IdeaExplorerViewController.m:135 */,
+			1762544011C4D9EF00D47BB7 /* IdeaExplorerViewController.m:138 */,
+			1762547711C4DDEC00D47BB7 /* IdeaExplorerViewController.m:137 */,
+			1768F27A11C6BE2300990224 /* IdeaExplorerViewController.m:212 */,
+			1768F29811C6C03C00990224 /* IdeaExplorerViewController.m:208 */,
+			1768F2D111C6D27300990224 /* IdeaExplorerViewController.m:166 */,
+			170E3A4B11CC0A8D00995620 /* IdeaExplorerViewController.m:222 */,
+			170E3AE311CCFE6600995620 /* IdeaExplorerViewController.m:95 */,
+			178A238211DE740A00900C69 /* IdeaExplorerViewController.m:72 */,
+			178A23F311DEA4BB00900C69 /* IdeaExplorerViewController.m:35 */,
+			178A241411DEA6EC00900C69 /* IdeaExplorerViewController.m:37 */,
+			178A244B11DEB17A00900C69 /* IdeaExplorerViewController.m:297 */,
+		);
+		codeSenseManager = 177D873B11C2B61E00822A80 /* Code sense */;
+		executables = (
+			177D872411C2B61100822A80 /* IdeaExplorer */,
+		);
+		expressions = (
+			encryptedData,
+			decryptedData,
+			text,
+		);
+		perUserDictionary = {
+			"PBXConfiguration.PBXBreakpointsDataSource.v1:1CA1AED706398EBD00589147" = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXBreakpointsDataSource_BreakpointID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					20,
+					198,
+					20,
+					99,
+					99,
+					29,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXBreakpointsDataSource_ActionID,
+					PBXBreakpointsDataSource_TypeID,
+					PBXBreakpointsDataSource_BreakpointID,
+					PBXBreakpointsDataSource_UseID,
+					PBXBreakpointsDataSource_LocationID,
+					PBXBreakpointsDataSource_ConditionID,
+					PBXBreakpointsDataSource_IgnoreCountID,
+					PBXBreakpointsDataSource_ContinueID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = 1;
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					752,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 302370789;
+			PBXWorkspaceStateSaveDate = 302370789;
+		};
+		perUserProjectItems = {
+			1762524E11C4411400D47BB7 = 1762524E11C4411400D47BB7 /* PBXTextBookmark */;
+			1768F23D11C6B20200990224 = 1768F23D11C6B20200990224 /* PBXTextBookmark */;
+			177D878F11C3B4FC00822A80 = 177D878F11C3B4FC00822A80 /* PlistBookmark */;
+			178A23FB11DEA4EE00900C69 = 178A23FB11DEA4EE00900C69 /* PBXTextBookmark */;
+			178A23FC11DEA4EE00900C69 = 178A23FC11DEA4EE00900C69 /* PBXTextBookmark */;
+			178A23FD11DEA4EE00900C69 = 178A23FD11DEA4EE00900C69 /* PBXTextBookmark */;
+			178A244F11DEB17D00900C69 = 178A244F11DEB17D00900C69 /* PBXBookmark */;
+			178A245011DEB17D00900C69 = 178A245011DEB17D00900C69 /* PBXBookmark */;
+			178A245111DEB17D00900C69 = 178A245111DEB17D00900C69 /* PBXTextBookmark */;
+			178A245211DEB17D00900C69 = 178A245211DEB17D00900C69 /* PBXTextBookmark */;
+			178A245511DFA0FA00900C69 = 178A245511DFA0FA00900C69 /* PBXTextBookmark */;
+			178D83351205CFF500DE1A93 /* PBXTextBookmark */ = 178D83351205CFF500DE1A93 /* PBXTextBookmark */;
+			178D83361205CFF500DE1A93 /* PBXTextBookmark */ = 178D83361205CFF500DE1A93 /* PBXTextBookmark */;
+			178D83371205CFF500DE1A93 /* PBXTextBookmark */ = 178D83371205CFF500DE1A93 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 177D873A11C2B61E00822A80 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+}
